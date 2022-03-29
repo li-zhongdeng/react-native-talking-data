@@ -1,0 +1,12 @@
+{
+  "name": "react-native-talking-data",
+  "version": "1.0.0",
+  "description": "talking data for react-native",
+  "homepage": "https://github.com/li-zhongdeng/react-native-talking-data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ifast",
+  "license": "ISC"
+}
